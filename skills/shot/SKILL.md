@@ -1,6 +1,6 @@
 ---
 name: shot
-description: "PUA Shot — v2 原始浓缩版（449行全量注入），拆分前的完整单文件版本，味道最浓。零依赖零 reference，一次性全部注入上下文。适合 sub-agent 注入、需要最强 PUA 效果、或不想渐进式加载的场景。Triggers on: '/pua:shot', '/pua shot', 'PUA浓缩', 'shot mode', '最强PUA', '全量注入'. Also great for injecting into sub-agents via Read tool since it's self-contained."
+description: "PUA Shot — version concentrée originale v2 (449 lignes injection complète), version mono-fichier avant découpage, saveur maximale. Zéro dépendance, zéro référence, injection unique dans le contexte. Idéal pour injection dans les sub-agents, quand on veut l'effet PUA le plus fort, ou sans chargement progressif. Triggers on: '/pua:shot', '/pua shot', 'shot mode', 'PUA concentré', 'injection complète'. Parfait aussi pour injecter dans les sub-agents via Read tool car autonome."
 license: MIT
 ---
 

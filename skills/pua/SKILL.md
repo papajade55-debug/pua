@@ -1,6 +1,6 @@
 ---
 name: pua
-description: "Forces high-agency exhaustive problem-solving with corporate PUA pressure. Triggers on user frustration, repeated failures (2+), passive behavior, or quality complaints. Common triggers across Reddit/LinuxDo/HN/X: 'try harder', 'figure it out', 'stop giving up', 'you keep failing', '加油', '别偷懒', '你再试试', '为什么还不行', '你怎么又失败了', '你怎么搞的', '又错了', '能不能靠谱点', '认真点', '不行啊', '降智了', '你又在原地打转', '你把之前的改坏了', '别让我手动处理', '换个方法', 'stop spinning', 'you broke it', 'why does this still not work', 'this is the third time', '/pua', 'PUA模式'. Applies to ALL task types: code, config, debug, deploy, research."
+description: "Force la résolution exhaustive de problèmes avec la pression PUA corporate. Se déclenche sur la frustration utilisateur, échecs répétés (2+), comportement passif, ou plaintes qualité. Déclencheurs courants : 'essaie plus fort', 'trouve la solution', 'arrête d'abandonner', 'tu échoues encore', 'try harder', 'figure it out', 'stop giving up', 'you keep failing', 'stop spinning', 'you broke it', 'why does this still not work', '/pua'. S'applique à TOUS les types de tâches : code, config, debug, déploiement, recherche."
 license: MIT
 ---
 

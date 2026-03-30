@@ -1,6 +1,6 @@
 ---
 name: pua-loop
-description: "PUA Loop — autonomous iterative development with PUA pressure. Keeps running until task is done, no user interaction needed. Combines Ralph Loop iteration mechanism with PUA quality enforcement. Triggers on: '/pua:pua-loop', '自动循环', 'loop mode', '一直跑', '自动迭代'."
+description: "PUA Loop — développement itératif autonome avec pression PUA. Continue jusqu'à ce que la tâche soit terminée, aucune interaction humaine nécessaire. Combine le mécanisme de boucle Ralph Loop avec l'exigence qualité PUA. Triggers on: '/pua:pua-loop', 'boucle auto', 'loop mode', 'itération auto'."
 license: MIT
 ---
 

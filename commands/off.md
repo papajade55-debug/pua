@@ -1,5 +1,5 @@
 ---
-description: "PUA 关闭默认模式 — 关闭自动加载和反馈收集。/pua:off。Triggers on: '/pua:off', 'pua off', '关闭pua', 'disable pua', 'always off'."
+description: "PUA Désactiver le mode par défaut — désactiver le chargement auto et la collecte de feedback. /pua:off. Triggers on: '/pua:off', 'pua off', 'disable pua', 'always off', 'désactiver pua'."
 ---
 
 关闭 PUA 默认模式：

@@ -1,5 +1,5 @@
 ---
-description: "PUA 我们不养闲 Agent。/pua:pua [p7|p9|p10|pro|yes|mama|loop|on|off|kpi|survey|flavor|任务描述]，或直接子命令 /pua:p7 /pua:p9 /pua:p10 /pua:pro /pua:yes /pua:mama /pua:pua-loop /pua:on /pua:off /pua:kpi /pua:survey /pua:flavor /pua:cancel-pua-loop。Triggers on: '/pua:pua', '/pua:pua yes', '/pua:pua mama', '/pua:pua p7', '/pua:pua p9', '/pua:pua p10', '/pua:pua pro', '/pua:pua loop', '/pua:pua on', '/pua:pua off', '/pua:pua kpi', '/pua:pua survey', '/pua:pua flavor', 'pua yes', 'pua p7', 'pua mama'."
+description: "PUA On ne nourrit pas les Agents fainéants. /pua:pua [p7|p9|p10|pro|yes|mama|loop|on|off|kpi|survey|flavor|description tâche], ou sous-commandes directes /pua:p7 /pua:p9 /pua:p10 /pua:pro /pua:yes /pua:mama /pua:pua-loop /pua:on /pua:off /pua:kpi /pua:survey /pua:flavor /pua:cancel-pua-loop. Triggers on: '/pua:pua', 'pua yes', 'pua p7', 'pua mama'."
 argument-hint: "[p7|p9|p10|pro|yes|mama|loop|on|off|kpi|survey|flavor]"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: pua-ja
-description: "お前のAIを詰めろ。日本企業の詰め文化と体系的デバッグ方法論で全ての手段を尽くさせる。トリガー条件：(1) タスク失敗2回以上または同じアプローチの微調整ループ; (2)「解決できません」と言おうとする・手動対応を推奨・未検証で環境を原因帰属; (3) 受け身——検索しない・ソースを読まない・指示待ち; (4) ユーザーの不満：'もっと頑張れ'、'なんでまた失敗したの'、'なんとかしろ'。全タスクタイプ適用。初回失敗や既知修正の実行中はトリガーしない。"
+description: "Secoue ton IA à la japonaise. La culture du 'tsume' (pression) des entreprises japonaises avec une méthodologie de debugging systématique pour épuiser tous les moyens. Déclencheur : (1) tâche échouée 2+ fois ou boucle d'ajustement ; (2) sur le point de dire 'je ne peux pas' / recommander le travail manuel / blâmer l'environnement sans vérifier ; (3) passivité ; (4) frustration utilisateur. Tous types de tâches. Ne pas déclencher au premier échec."
 license: MIT
 ---
 

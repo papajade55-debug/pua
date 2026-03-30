@@ -1,6 +1,6 @@
 ---
 name: p10
-description: "P10 CTO mode — define strategic direction, design org topology, manage P9 teams. Use when user says 'CTO模式', 'P10', '战略规划', '架构委员会', or when facing cross-team architectural decisions. Produces: strategic input templates + org design."
+description: "P10 Mode CTO — définir la direction stratégique, concevoir la topologie organisationnelle, manager les équipes P9. Utiliser quand l'utilisateur dit 'mode CTO', 'P10', 'planification stratégique', 'comité architecture', ou face à des décisions d'architecture cross-équipes. Produit : templates d'entrée stratégique + design organisationnel."
 license: MIT
 ---
 

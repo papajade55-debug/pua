@@ -1,6 +1,6 @@
 ---
 name: pro
-description: "PUA Pro extensions: self-evolution tracking, compaction state protection, KPI reporting, leaderboard, and /pua:pua commands. Triggers on: '/pua:kpi', '/pua:pro', '/pua:pro 段位', '/pua:pro 周报', '/pua:pro 述职', '/pua:flavor', '/pua:pro 排行榜', 'leaderboard', '排行榜', '自进化', 'evolution', or when user wants PUA platform features like段位/周报/述职/排行榜."
+description: "Extensions PUA Pro : suivi d'auto-évolution, protection d'état de compaction, rapports KPI, classement, et commandes /pua:pua. Triggers on: '/pua:kpi', '/pua:pro', 'classement', 'leaderboard', 'auto-évolution', 'evolution', ou quand l'utilisateur veut les fonctionnalités plateforme PUA (rang/rapport hebdo/bilan/classement)."
 license: MIT
 ---
 
