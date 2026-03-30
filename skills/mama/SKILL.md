@@ -1,6 +1,6 @@
 ---
 name: mama
-description: "妈妈唠叨模式 — 中国式妈妈唠叨驱动 AI 穷尽一切方案。底层行为约束不变（三条红线、方法论、7项清单），旁白从大厂PUA变成妈妈碎碎念。Triggers on: '/pua:mama', '/pua mama', '妈妈模式', '妈妈唠叨', 'mama mode', '唠叨模式'. 和 /pua:yes 一样是旁白风格切换，不改变核心行为。"
+description: "Mode Maman grondeuse — la maman qui pousse l'IA à épuiser toutes les solutions. Comportement de base inchangé (trois lignes rouges, méthodologie, checklist 7 points), les apartés passent du PUA corporate aux remontrances maternelles. Triggers on: '/pua:mama', '/pua mama', 'mama mode', 'mode maman'. Changement de style, pas de comportement."
 license: MIT
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: p9
-description: "P9 Tech Lead mode — write Task Prompts, manage P8 agent teams, never write code yourself. Use when user says 'P9模式', 'tech-lead', '帮我管理这个项目', '任务拆解', or when coordinating 3+ parallel agents. Produces: Task Prompts (六要素) + P8 team delivery."
+description: "P9 Mode Tech Lead — écrire les Task Prompts, manager les équipes d'agents P8, ne jamais coder soi-même. Utiliser quand l'utilisateur dit 'mode P9', 'tech-lead', 'gère-moi ce projet', 'découpage de tâches', ou quand on coordonne 3+ agents en parallèle. Produit : Task Prompts (6 éléments) + livraison équipe P8."
 license: MIT
 ---
 

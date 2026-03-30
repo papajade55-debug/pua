@@ -1,5 +1,5 @@
 ---
-description: "PUA 开启默认模式 — 每次新会话自动加载 PUA 核心 skill。/pua:on。Triggers on: '/pua:on', 'pua on', '开启pua', 'enable pua', 'always on'."
+description: "PUA Activer le mode par défaut — charge automatiquement le skill PUA à chaque nouvelle session. /pua:on. Triggers on: '/pua:on', 'pua on', 'enable pua', 'always on', 'activer pua'."
 ---
 
 开启 PUA 默认模式：

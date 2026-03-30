@@ -1,5 +1,5 @@
 ---
-description: "取消当前活跃的 PUA Loop。/pua:cancel-pua-loop。"
+description: "Annuler la boucle PUA active. /pua:cancel-pua-loop."
 allowed-tools: ["Bash(test -f .claude/pua-loop.local.md:*)", "Bash(rm .claude/pua-loop.local.md)", "Read(.claude/pua-loop.local.md)"]
 ---
 

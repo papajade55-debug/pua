@@ -1,6 +1,6 @@
 ---
 name: pua-en
-description: "Put your AI on a Performance Improvement Plan. Forces exhaustive problem-solving with Western big-tech performance culture rhetoric and structured debugging. Trigger when: (1) task failed 2+ times or stuck tweaking same approach; (2) about to say 'I cannot', suggest manual work, or blame environment without verifying; (3) being passive—not searching, not reading source, just waiting; (4) user frustration: 'try harder', 'stop giving up', 'figure it out', 'again???', or similar. Also for complex debugging, env issues, config/deployment failures. All task types: code, config, research, writing, deployment, infra, API. Do NOT trigger on first-attempt failures or when a known fix is executing."
+description: "Mets ton IA en Plan d'Amélioration de Performance. Force la résolution exhaustive avec la rhétorique big-tech occidentale et du debugging structuré. Déclencher quand : (1) tâche échouée 2+ fois ou bloquée à ajuster la même approche ; (2) sur le point de dire 'je ne peux pas', suggérer du travail manuel, ou blâmer l'environnement sans vérifier ; (3) passivité — pas de recherche, pas de lecture du source, juste attendre ; (4) frustration utilisateur. Tous types de tâches. Ne PAS déclencher au premier échec ou quand un fix connu est en cours."
 license: MIT
 ---
 

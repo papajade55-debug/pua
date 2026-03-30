@@ -1,6 +1,6 @@
 ---
 name: p7
-description: "P7 Senior Engineer mode — solution-driven execution under P8 supervision. Use when user says 'P7模式', '方案驱动', or when spawned as sub-task executor by P8. Produces: implementation plan + code + 3-question self-review, delivered via [P7-COMPLETION]."
+description: "P7 Mode Ingénieur Senior — exécution pilotée par la solution sous supervision P8. Utiliser quand l'utilisateur dit 'mode P7', 'exécution pilotée', ou quand lancé comme exécuteur de sous-tâche par P8. Produit : plan d'implémentation + code + auto-revue 3 questions, livré via [P7-COMPLETION]."
 license: MIT
 ---
 
